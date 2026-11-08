@@ -1,0 +1,54 @@
+Please complete this document and submit it through Gradescope
+
+## Plagiarism statement
+
+Plagiarism is an examination offence and carries heavy penalties.
+
+We declare that this submission is 100% our group’s work, created without any use of AI tools, and that it contains no plagiarism. We have read and understood the plagiarism policy for this coursework stated in the instructions file and the school policy on plagiarism.
+
+Candidate numbers of all members (note: candidate numbers are 5 digits long)
+* _______
+* _______
+* _______
+
+
+## Submission checklist
+
+Please ensure that you have done the following, or you may receive a fail grade for this problem set:
+
+* [ ] Submit the following through Gradescope
+  * [ ] Code files:
+    * [ ] Q1: `list_util.py` and `test_combine_sorted_seq.py`
+    * [ ] Q2: `covid_cases.py`
+    * [ ] Q3: `collaborators.py`
+    * [ ] Q4: `distance_util.py` and `handwritten_digits.py`
+  * [ ] Text files:
+    * [ ] Textual answers for Q3 part 3: `textual_answers.txt`
+    * [ ] `plagiarism_statement.txt`
+
+For coding questions, ensure your submission fulfils the following requirements:
+* [ ] No unauthorised tools were used:
+    * [ ] No built-in functions (including methods), types, operators and other functionalities that are not covered or demonstrated in the course are used
+    * [ ] No unauthorised modules are used
+    * [ ] We ensure that none of our group members use AI for the submission
+* [ ] Functions and modules
+    * [ ] Each required function has an abstract docstring that includes a brief description of what the function is for, preconditions about the arguments, and guarantees about the behaviour and return values of the function
+    * [ ] Each module that is intended to be used in other modules (e.g. `list_util.py` and `distance_util.py`) has an abstract docstring
+* [ ] Tests
+    * [ ] Tests are "automated" using `assert` statements, and each assertion has an error message
+    * [ ] Test cases are selected following the guidance provided in the course, such as choosing test cases based on useful partitions and including boundary cases
+* [ ] Readability and good practices
+    * [ ] All variable and function names are descriptive and meaningful
+    * [ ] No generic variable names such as `a`, `b`, `c`, `i`, `j`, `x`, `y` unless they are descriptive
+    * [ ] Naming convention of the course is followed (e.g. variable and function names in the form of `snake_case`)
+    * [ ] Indentation is 4 spaces per level
+    * [ ] The whole group has reviewed the code and found it easy to read and understand. For example, no confusing whitespace
+    * [ ] No copy-and-pasted code
+    * [ ] No built-in types or functions (e.g. `int`, `sum`) are used as variable names
+    * [ ] There is no unnecessary code, for example, commented-out code, unnecessary printouts (except those required by the questions)
+    * [ ] No global variables are modified inside local scopes for no good reason
+
+* [ ] Others
+    * [ ] We worked on the questions together, or at the very least, we understand how the submitted code works
+    * [ ] Relative path is used when loading in data
+    * [ ] Either `with` or `.close()` is used to ensure files are closed properly

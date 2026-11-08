@@ -1,0 +1,12 @@
+Answers for textual questions
+
+
+Q3 part 3
+Explain whether one can use a `list` instead of a `tuple` to represent an author pair in `productive_pairs`.
+
+(your answer)
+
+
+
+
+
